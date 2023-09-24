@@ -1,13 +1,9 @@
 class Solution {
 public:
-    int subarraySum(vector<int>& nums, int k) {
-        int maxLen = 0;
+    int subarraySum(vector<int>& nums, int k) {      
         unordered_map<long long, int>prefixSum;
-        int len = 0;
-        long long sum=0;
-        int cnt=0,ans = 0;
-        int n = nums.size();
-        
+        long long sum=0,cnt=0;
+               
         for(int i = 0;i<nums.size();i++){                       
             sum+=nums[i];
             if(sum == k){                
@@ -17,9 +13,7 @@ public:
             if(prefixSum.find(rem)!=prefixSum.end()){                
                 cnt+=prefixSum[rem];
             }
-            prefixSum[sum]++;
-            
-            
+            prefixSum[sum]++;           
         }        
         return cnt;
     }
