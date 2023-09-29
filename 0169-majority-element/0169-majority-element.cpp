@@ -1,18 +1,31 @@
 class Solution {
 public:
-    static bool cmp(pair<int,int>& a, pair<int, int>& b){
-        return a.second<b.second;
-    }
+    
     int majorityElement(vector<int>& nums) {
-        map<int,int>v;
+        // Moor's Voting algo 
+        int element, cnt = 0, cnt1=0;
         for(int i = 0;i<nums.size();i++){
-            v[nums[i]]++;
+            if(cnt == 0){
+                element = nums[i];
+                cnt = 1;
+            }
+            else if(nums[i] == element){
+                cnt++;
+            }
+            else {
+                cnt--;
+            }
+
         }
-        vector<pair<int,int>>A;
-        for(auto& it:v){
-            A.push_back(it);
+        for(int i = 0;i<nums.size();i++){
+            if(element == nums[i]){
+                cnt1++;
+            }
         }
-        sort(A.begin(), A.end(), cmp);
-        return A[A.size()-1].first;
+        cout<<element<<" "<<cnt1<<endl;
+        if(cnt1>nums.size()/2){
+            return element;
+        }
+        else return -1;
     }
 };
