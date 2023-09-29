@@ -21,8 +21,7 @@ public:
             if(element == nums[i]){
                 cnt1++;
             }
-        }
-        cout<<element<<" "<<cnt1<<endl;
+        }        
         if(cnt1>nums.size()/2){
             return element;
         }
