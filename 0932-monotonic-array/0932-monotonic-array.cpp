@@ -2,22 +2,19 @@ class Solution {
 public:
     bool isMonotonic(vector<int>& nums) {
         int n = nums.size();
-        bool flag = false;
-        if(is_sorted(nums.begin(), nums.end())){
-            flag = true;
-        }
-        else{
-            for(int i=n-1;i>0;i--){
-            if(nums[i-1]>=nums[i]){
-                flag = true;
+        bool increasing = true, decreasing = true;
+        for(int i = 1;i<n;i++){
+            if(nums[i]>nums[i-1]){
+                decreasing = false;
             }
-            else{
-                flag = false;
-                break;
+            else if(nums[i]<nums[i-1]){
+                increasing = false;
             }
-        }
+            if(!increasing && !decreasing){
+                return false;
+            }
         }
         
-        return flag;
+        return true;
     }
 };
