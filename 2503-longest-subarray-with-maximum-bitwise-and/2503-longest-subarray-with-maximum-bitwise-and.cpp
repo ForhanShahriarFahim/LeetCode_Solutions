@@ -10,8 +10,6 @@ public:
             else cnt = 0;   
             ans = max(ans, cnt);         
         }
-
-        return ans;
-        
+        return ans;        
     }
 };
