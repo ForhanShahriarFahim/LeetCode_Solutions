@@ -4,12 +4,11 @@ public:
         int mxElement = 0, ans = 0, cnt = 0;
         int n = nums.size();
         mxElement = *max_element(nums.begin(), nums.end());
-        for(int i = 0;i<n;i++){
-            if(nums[i] == mxElement){
-                cnt++;
-                ans = max(ans, cnt);
-            }
-            else cnt = 0;            
+        for(auto &x:nums){
+            if(x == mxElement)
+                cnt++;          
+            else cnt = 0;   
+            ans = max(ans, cnt);         
         }
 
         return ans;
