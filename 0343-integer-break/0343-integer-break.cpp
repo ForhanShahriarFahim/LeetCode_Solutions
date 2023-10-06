@@ -1,17 +1,16 @@
 class Solution {
 public:
     int integerBreak(int n) {
-        int mod3 = n%3;
-        if(n == 2) return 1;
-        if(n == 3) return 2;
-        if(mod3 == 0){
-            return int(pow(3, n/3));
+        int remainder = n%3, quotient = n/3;
+        if(n<=3) return n-1;
+        if(remainder == 0){
+            return pow(3, quotient);
         }
-        else if(mod3 == 2){
-            return int(pow(3, n/3))*2;
+        else if(remainder == 2){
+            return pow(3, quotient)*2;
         }
         else {
-            return int(pow(3, (n/3)-1))*4;
+            return pow(3, quotient-1)*4;
         }
 
     }
