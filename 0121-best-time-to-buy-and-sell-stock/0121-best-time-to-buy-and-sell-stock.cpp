@@ -6,6 +6,6 @@ public:
             minNum = min(prices[i], minNum);
             maxProfit = max(maxProfit, prices[i]-minNum);
         }        
-         return maxProfit;        
+        return maxProfit;        
     }
 };
