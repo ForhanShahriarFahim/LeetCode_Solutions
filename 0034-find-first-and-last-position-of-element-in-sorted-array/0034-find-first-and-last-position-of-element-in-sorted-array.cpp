@@ -7,15 +7,11 @@ public:
             first = -1;            
         }
         
-        if(second == 0){
+        if(second == 0||nums[--second]!=target){
             second = -1;
         }
-        else{
-            second--;
-            if(nums[second]!=target){
-                second = -1;
-            }
-        }
+        
+        
         return {first, second};
     }
 };
