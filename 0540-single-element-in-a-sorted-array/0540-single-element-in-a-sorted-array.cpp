@@ -12,18 +12,14 @@ private:
             if(arr[mid]!=arr[mid+1] && arr[mid]!=arr[mid-1]){
                 return arr[mid];
             }            
-            if((mid%2 &&arr[mid] == arr[mid-1])||(mid%2==0 && arr[mid] == arr[mid+1]))
-            {
-                low = mid+1;
-            
+            if((mid%2 &&arr[mid] == arr[mid-1])||(mid%2==0 && arr[mid] == arr[mid+1])){            
+                low = mid+1;            
             }
             else {
                 high = mid-1;
-            }
-            
+            }            
         }
-        return -1;
-        
+        return -1;        
     }
  
 public:
