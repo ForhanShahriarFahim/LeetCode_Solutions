@@ -1,14 +1,13 @@
 class Solution {
 private:
     bool valid(vector<int>&arr, int mid,int days){  
-        int temp = 0, cnt = 1;
-        for(int i = 0;i<arr.size();i++){   
-            temp+=arr[i];
-            if(temp>mid){
-                cnt++;
-                temp = 0;
-                temp+=arr[i];
-            }   
+        int cnt = 1, load = 0;
+        for(int i = 0;i<arr.size();i++){               
+            if(load + arr[i]>mid){
+                cnt++;                
+                load = arr[i];
+            }
+            else load+=arr[i];
             if(arr[i]>mid) return false;
         }        
         if(cnt<=days) return true;
