@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0643-maximum-average-subarray-i](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## String
 |  |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
