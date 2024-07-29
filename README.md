@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0079-word-search](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0079-word-search) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1777-determine-if-two-strings-are-close) |
