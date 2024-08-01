@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0643-maximum-average-subarray-i](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0079-word-search) |
 ## Greedy
 |  |
@@ -79,5 +81,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 <!---LeetCode Topics End-->
