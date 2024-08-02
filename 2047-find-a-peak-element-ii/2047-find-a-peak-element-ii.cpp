@@ -1,10 +1,10 @@
 class Solution {
 public:
     int findMaxVal(vector<vector<int>>& mat, int row, int col){
-        int maxVal = -1, maxInd = -1;
+        int maxValue = -1, maxInd = -1;
         for(int i = 0;i<row;i++){
-            if(mat[i][col]>maxVal){
-                maxVal = mat[i][col];
+            if(mat[i][col]>maxValue){
+                maxValue = mat[i][col];
                 maxInd = i;
             }
         }
@@ -12,8 +12,7 @@ public:
     }
     vector<int> findPeakGrid(vector<vector<int>>& mat) {
         int n = mat.size();
-        int m = mat[0].size();
-        int row = 0, col = m-1;
+        int m = mat[0].size();        
         int low = 0, high = m-1;
         while(low<=high){
             int mid = (low+high)/2;
