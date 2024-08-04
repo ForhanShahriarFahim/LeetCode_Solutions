@@ -3,14 +3,19 @@ public:
     string removeOuterParentheses(string s) {
         int count = 0;
         string ans;
+        stack<char>st;
         for(auto x:s){
             if(x=='('){
-                count++;  
-                if(count>1) ans+=x;              
+                if(st.size()>0){
+                    ans+=x;
+                }
+                st.push(x);              
             }
             else{
-                count--;
-                if(count>0)ans+=x;
+                if(st.size()>1){
+                    ans+=x;
+                }
+                st.pop();
             }
         }
         return ans;
