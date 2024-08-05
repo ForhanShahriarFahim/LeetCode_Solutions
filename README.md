@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1777-determine-if-two-strings-are-close) |
+| [2032-largest-odd-number-in-string](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2032-largest-odd-number-in-string](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
+## Math
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
