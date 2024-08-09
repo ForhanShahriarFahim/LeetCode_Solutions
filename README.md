@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1777-determine-if-two-strings-are-close) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
 ## Backtracking
 |  |
@@ -98,11 +99,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1777-determine-if-two-strings-are-close) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Counting
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1777-determine-if-two-strings-are-close) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Binary Search
 |  |
 | ------- |
