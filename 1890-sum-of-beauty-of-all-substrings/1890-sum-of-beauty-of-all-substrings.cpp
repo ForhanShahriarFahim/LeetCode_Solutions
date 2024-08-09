@@ -9,12 +9,10 @@ public:
                 int maxVal = 0, minVal = INT_MAX; 
                 mp[s[j]]++;
                 for(auto &x:mp){
-                    //cout<<i<<" "<<x.first<<" "<<x.second<<endl;
                     maxVal = max(maxVal, x.second);
                     minVal = min(minVal,x.second);
                 }
                 ans+=maxVal-minVal;
-                //cout<<i<<" "<<ans<<endl;
             }
         }
         return ans;
