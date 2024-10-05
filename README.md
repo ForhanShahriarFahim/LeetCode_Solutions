@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Trie
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Linked List
 |  |
 | ------- |
@@ -173,4 +175,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [1236-n-th-tribonacci-number](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
