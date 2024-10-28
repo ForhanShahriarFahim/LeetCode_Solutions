@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0908-middle-of-the-linked-list) |
@@ -193,5 +194,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
