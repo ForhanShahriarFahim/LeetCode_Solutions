@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0138-copy-list-with-random-pointer](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0242-valid-anagram) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
