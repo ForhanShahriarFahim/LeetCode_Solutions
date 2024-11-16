@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [1236-n-th-tribonacci-number](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [2032-largest-odd-number-in-string](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2050-count-good-numbers) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Trie
 |  |
@@ -217,4 +218,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [2050-count-good-numbers](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2050-count-good-numbers) |
 <!---LeetCode Topics End-->
