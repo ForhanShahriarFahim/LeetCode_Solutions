@@ -11,20 +11,30 @@
  */
 class Solution {
 public:
-    //TIme complexity : O(N) Space Complexity: O(N)
     vector<int> postorderTraversal(TreeNode* root) {
         stack<TreeNode*>st;
         vector<int>postorder;
-        if(root == NULL) return postorder;
-        st.push(root);
-        while(!st.empty()){
-            root = st.top();
-            st.pop();
-            postorder.push_back(root->val);
-            if(root->left!=NULL) st.push(root->left);
-            if(root->right!=NULL) st.push(root->right);            
+        TreeNode* cur = root, *temp;
+        while(cur!=NULL || !st.empty()){
+            if(cur!=NULL){
+                st.push(cur);
+                cur = cur->left;
+            }
+            else{
+                temp = st.top()->right;
+                if(temp == NULL){
+                    temp = st.top();
+                    st.pop();
+                    postorder.push_back(temp->val);
+                    while(!st.empty() && temp == st.top()->right){
+                        temp = st.top();
+                        st.pop();
+                        postorder.push_back(temp->val);
+                    }
+                }
+                else cur = temp;
+            }            
         }
-        reverse(postorder.begin(), postorder.end());
         return postorder;
     }
 };
