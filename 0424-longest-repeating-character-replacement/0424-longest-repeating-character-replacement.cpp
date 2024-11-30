@@ -1,8 +1,9 @@
 class Solution {
 public:
+    // TC: O(N) | SC: O(26)
     int characterReplacement(string s, int k) {
         int l = 0, r = 0, maxL = 0, maxF = 0;
-        unordered_map<int, int>hashmap;
+        int hashmap[26] = {0};
         while(r<s.size()){
             hashmap[s[r]-'A']++;
             maxF = max(maxF, hashmap[s[r]-'A']);
