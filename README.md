@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0074-search-a-2d-matrix](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0090-subsets-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1236-n-th-tribonacci-number) |
