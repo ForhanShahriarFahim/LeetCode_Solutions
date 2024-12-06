@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2047-find-a-peak-element-ii) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## String
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Stack
 |  |
 | ------- |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Counting
 |  |
 | ------- |
@@ -160,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2047-find-a-peak-element-ii) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Divide and Conquer
 |  |
 | ------- |
