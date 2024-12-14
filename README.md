@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0665-non-decreasing-array](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0665-non-decreasing-array) |
 | [0724-find-pivot-index](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
