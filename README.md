@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0090-subsets-ii) |
+| [0162-find-peak-element](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
