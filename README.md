@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0168-excel-sheet-column-title) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
