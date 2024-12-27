@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0090-subsets-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0268-missing-number](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1236-n-th-tribonacci-number) |
