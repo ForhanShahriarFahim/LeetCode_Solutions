@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0665-non-decreasing-array](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0665-non-decreasing-array) |
 | [0724-find-pivot-index](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0780-max-chunks-to-make-sorted) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0739-daily-temperatures](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0874-backspace-string-compare](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0874-backspace-string-compare) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0739-daily-temperatures) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
