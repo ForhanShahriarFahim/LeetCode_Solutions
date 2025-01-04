@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0268-missing-number) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0268-missing-number) |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
