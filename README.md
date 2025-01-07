@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0090-subsets-ii) |
+| [0139-word-break](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0162-find-peak-element](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0169-majority-element) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0079-word-search) |
+| [0139-word-break](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0142-linked-list-cycle-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0205-isomorphic-strings) |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0139-word-break) |
 ## String Matching
 |  |
 | ------- |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0045-jump-game-ii) |
 | [0070-climbing-stairs](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0747-min-cost-climbing-stairs](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1236-n-th-tribonacci-number) |
@@ -340,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0139-word-break) |
 | [1236-n-th-tribonacci-number](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
 |  |
