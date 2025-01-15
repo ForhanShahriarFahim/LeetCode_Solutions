@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2509-minimize-xor](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Sorting
 |  |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [2509-minimize-xor](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Breadth-First Search
 |  |
