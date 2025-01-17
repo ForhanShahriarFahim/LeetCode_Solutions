@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2792-neighboring-bitwise-xor) |
 ## String
 |  |
 | ------- |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [2509-minimize-xor](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2792-neighboring-bitwise-xor) |
 ## Breadth-First Search
 |  |
 | ------- |
