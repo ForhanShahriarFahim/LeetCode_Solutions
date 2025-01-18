@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0780-max-chunks-to-make-sorted) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1036-rotting-oranges](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1036-rotting-oranges](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 | [2047-find-a-peak-element-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2047-find-a-peak-element-ii) |
 ## Greedy
 |  |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0226-invert-binary-tree) |
+| [1036-rotting-oranges](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 ## Quickselect
 |  |
 | ------- |
