@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2047-find-a-peak-element-ii) |
+| [2145-grid-game](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2145-grid-game) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2792-neighboring-bitwise-xor) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2047-find-a-peak-element-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2047-find-a-peak-element-ii) |
+| [2145-grid-game](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2145-grid-game) |
 ## Greedy
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2145-grid-game](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2145-grid-game) |
 ## Hash Table
 |  |
 | ------- |
