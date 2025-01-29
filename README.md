@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1876-map-of-highest-peak](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1876-map-of-highest-peak) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2047-find-a-peak-element-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2145-grid-game](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2145-grid-game) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1876-map-of-highest-peak) |
 | [2047-find-a-peak-element-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2145-grid-game](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2145-grid-game) |
 ## Greedy
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1876-map-of-highest-peak](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1876-map-of-highest-peak) |
 ## Quickselect
 |  |
 | ------- |
