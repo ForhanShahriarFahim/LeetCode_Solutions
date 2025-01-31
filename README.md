@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0801-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0542-01-matrix](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1036-rotting-oranges) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1876-map-of-highest-peak) |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0207-course-schedule) |
+| [0801-is-graph-bipartite](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0801-is-graph-bipartite) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Topological Sort
 |  |
@@ -463,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Union Find
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
