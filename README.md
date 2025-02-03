@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2792-neighboring-bitwise-xor) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## String
 |  |
 | ------- |
