@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2145-grid-game](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2145-grid-game) |
 ## Hash Table
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [1236-n-th-tribonacci-number](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1236-n-th-tribonacci-number) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2032-largest-odd-number-in-string](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2050-count-good-numbers) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -437,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1477-product-of-the-last-k-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
