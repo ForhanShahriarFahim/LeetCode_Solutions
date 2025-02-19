@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1777-determine-if-two-strings-are-close](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1777-determine-if-two-strings-are-close) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/0090-subsets-ii) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ForhanShahriarFahim/LeetCode_Solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 ## Matrix
 |  |
 | ------- |
